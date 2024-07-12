@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "725954523407",
+    "project_id": "goldenmobshoes",
+    "storage_bucket": "goldenmobshoes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:725954523407:android:cba500271f6a2e9b578e7a",
+        "android_client_info": {
+          "package_name": "br.com.dtec.loja.minimalstore2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC06iYjoBOGw7NNighyYbRZvyOF6Dtdpro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
